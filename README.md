@@ -26,6 +26,7 @@ git clone git@github.com:lukifight73/Webserv-tests.git
 ```
 2. Run the following command:
 ```bash
+cd Webserv
 make 
 ```
 3. To use the program, run the program and then enter any bash--posix usual command line:
