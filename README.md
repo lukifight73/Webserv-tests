@@ -3,6 +3,8 @@
 # Description:
 A high-performance HTTP web server implementation built from scratch in C++98. This project needs a deep understanding of network, HTTP protocol, and systems architecture by creating a fully functional web server capable of handling multiple clients, serving static content, processing CGI scripts, and managing file uploads. The server implements non-blocking I/O for optimal performance and scalability.
 
+<img src="./Screenshot from Webserv.png" alt="Screenshot from Webserv" width="500">
+
 # Context:
 Part of 42 Common Core.
 
